@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Safar Tour &Travel Website",
+    "desc": "Safar: A travel website project utilizing HTML, CSS, and JavaScript. Features responsive design, dynamic content, and interactive elements. Seamlessly navigate destinations, view attractions, and plan your next adventure with ease.",
+    "image": "https://cdn.pixabay.com/photo/2015/01/01/21/56/web-586177_640.jpg",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Rising Star Sports Website",
+    "desc": "Rising Star Sports Institute: A cutting-edge website project crafted with HTML, CSS, and JavaScript. Discover comprehensive training programs, athlete profiles, and event updates. Engage with interactive features, schedule appointments, and elevate your athletic journey with ease.",
+    "image": "https://cdn.pixabay.com/photo/2015/01/01/21/56/web-586177_640.jpg",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
